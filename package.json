@@ -1,0 +1,8 @@
+{
+  "name": "realtime-location-backend",
+  "private": true,
+  "description": "Railway template root — holds the railway IaC SDK only",
+  "devDependencies": {
+    "railway": "^3.16.0"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792122616441,
+      "tag": "0000_pink_celestials",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792122695466,
+      "tag": "0001_enable_postgis",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1792122725962,
+      "tag": "0002_slow_firelord",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1792123018493,
+      "tag": "0003_tiresome_firelord",
+      "breakpoints": true
+    }
+  ]
+}
